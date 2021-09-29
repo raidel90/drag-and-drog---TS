@@ -1,15 +1,18 @@
 
-###Install
+### Install
+
 `npm install`
 
 `npm start`
 
-##run
+## compile TS
+
 `npm run tsc`
 
-###comands just in case
-npm install --save-dev typescript
+### comands just in case
 
-###demo capture
+`npm install --save-dev typescript`
+
+### demo capture
 
 ![image](capture.png)
